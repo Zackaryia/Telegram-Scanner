@@ -7,3 +7,6 @@ Once in the DB indexing and searchability is added along with analytics and othe
 This tech stack can be done in Python / Go for the backend (Maybe rust for speed optimizations) and JS or Rust for the front end.
 
 The goal is to allow blue teamers to have deeper insight into the network of hacked credentials and red-teamers to see how they are affected by breaches. Also just for general data exploration and insight.
+
+
+Michael Bazzell's OSINT Techniques is a great resource and a great interest to the insperation of this project.
